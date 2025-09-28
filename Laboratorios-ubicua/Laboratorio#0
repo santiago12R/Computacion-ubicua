@@ -2,6 +2,7 @@
 
 // Enlace al simulador: https://www.tinkercad.com/things/8XejGirJsdG-video-2
 //https://github.com/santiago12R/Computacion-ubicua/blob/main/Fotos-laboratorios/IMG-20250928-WA0024.jpg
+
 void setup() { 
   pinMode(13, OUTPUT); // pin 13 como salida
 } 

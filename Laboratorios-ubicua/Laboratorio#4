@@ -6,6 +6,8 @@
  
 */
 //Enlace del simulador:https://www.tinkercad.com/things/b4Zn3qq5Ovo-laboratorio-4-
+//IMAGEN:https://github.com/santiago12R/Computacion-ubicua/blob/main/Fotos-laboratorios/IMG-20250928-WA0028.jpg
+
 int TRIG = 10;			// trigger en pin 10
 int ECO = 9;			// echo en pin 9
 int LED = 3;			// LED en pin 3

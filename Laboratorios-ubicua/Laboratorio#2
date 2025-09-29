@@ -5,6 +5,8 @@
 */
 
 //Enlace al simulador: https://www.tinkercad.com/things/jJq7Li3ymv4-capitulo-4
+//IMAGEN:https://github.com/santiago12R/Computacion-ubicua/blob/main/Fotos-laboratorios/IMG-20250928-WA0019.jpg
+
 
 int LED = 3;				// LED en pin 3
 int BRILLO;

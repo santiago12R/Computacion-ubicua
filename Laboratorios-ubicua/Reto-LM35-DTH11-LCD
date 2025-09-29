@@ -1,6 +1,6 @@
 #include <DHT.h>
 #include <LiquidCrystal.h>
-
+//IMAGEN:https://github.com/santiago12R/Computacion-ubicua/blob/main/Fotos-laboratorios/IMG-20250928-WA0020.jpg
 // ====== Configuración de pines ======
 #define PIN_DHT   8        // Pin de datos del DHT22
 #define DHTTYPE   DHT22

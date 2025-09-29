@@ -6,6 +6,7 @@
 */
 
 //Enlace al simulador: https://www.tinkercad.com/things/aVvern41mPx-capitulo-4-sensor-temperatura
+//IMAGEN:https://github.com/santiago12R/Computacion-ubicua/blob/main/Fotos-laboratorios/IMG-20250928-WA0029.jpg
 
 int SENSOR;		// variable almacena valor leido de entrada analogica A0
 float TEMPERATURA;	// valor de temperatura en grados centigrados
